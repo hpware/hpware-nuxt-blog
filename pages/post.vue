@@ -14,6 +14,7 @@ onMounted(() => {
     <br>
     <br>
     <div class="norm">
+        <div>
         <div class="blog" v-if="pid === '1'">
             <p1 />
         </div>
@@ -27,6 +28,9 @@ onMounted(() => {
                 <h2 style="text-align:center;"><a style="text-decoration: none; color:aliceblue" href="https://hpware.hwtw.cc">按這邊回去吧！</a></h2>
             </div>
         </div>
+        <br>
+        <a style="text-decoration: none; color:aliceblue;text-align: center;" href="https://hpware.hwtw.cc">返回</a>
+        </div>
     </div>
 </template>
 <style>
@@ -36,7 +40,7 @@ onMounted(() => {
     justify-content: center;
     display: block;
     flex-direction: column;
-    vertical-align: middlex;
+    vertical-align: middle;
 }
 .norm {
     display: flex;
