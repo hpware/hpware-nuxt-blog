@@ -7,6 +7,7 @@
         <img weight="40%" height="40%" src="https://wepr3os.fastmaildeliverycontent.hwtw.cc/blogpost-2/vercel-data.png">
         <p>Google (如果有用uBlock Orgin 或 AdBlock 的話應該不會看到)</p>
         <img weight="40%" height="40%" src="https://wepr3os.fastmaildeliverycontent.hwtw.cc/blogpost-2/google-data-1.png">
+        <br>
         <img weight="40%" height="40%" src="https://wepr3os.fastmaildeliverycontent.hwtw.cc/blogpost-2/google-data-2.png">
         <p>NOTE: 這個一定不是 Search Engine 的 Trafic</p>
     </div>
